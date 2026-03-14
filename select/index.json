@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウィ・キャント・ビー・フレンズ（ウェイト・フォー・ユア・ラヴ）",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-14T16:27:02.757429Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "we can't be friends (wait for your love)",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_we_can't_be_friends_(wait_for_your_love)_Ariana_Grande.txt"
+    }
+  ]
+}
